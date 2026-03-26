@@ -12,4 +12,5 @@ Aplicación móvil desarrollada en Flutter que permite:
 - Geocoding
 
 ## Autor
-Sebastian Perez****
+Sebastian Escaño Pérez
+2023-1063
